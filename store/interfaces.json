@@ -1,0 +1,6 @@
+{
+  "age-gate": {
+    "component": "AgeGate",
+    "allowed": ["rich-text"]
+  }
+}
